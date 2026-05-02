@@ -7,8 +7,8 @@ Repositorio dedicado a notebooks y actividades del curso.
 
 ## 📂 Contenido
 
-| Actividad | Notebook | 
-|--------|----------|
+| Número | Actividad | Notebook |
+|--------|----------|----------|
 | 1 | Inferencia vs Machine Learning | `Semana1_inferencia_vs_ML.ipynb` |
 | 2 | Actividad Hackaton | `Actividad_en_Clase_Grupo_5.ipynb` |
 | 3 | Árboles de decisión y k-Nearest Neighbors | `Semana3_AD_kNN.ipynb` |
@@ -29,8 +29,8 @@ Repositorio dedicado a notebooks y actividades del curso.
 
 ## 📌 Notas
 
-Los notebooks incluyen tanto el código como respuestas a preguntas de interpretación.
-Algunos ejercicios trabajan con datos astronómicos reales (catálogos SDSS, exoplanetas).
+Aquí, los notebooks incluyen tanto el código como las respuestas escritas en Markdown directamente en el IPYNB.
+Algunas de estas actividades fueron realizadas con datos reales, como catálogos.
 
 ---
 

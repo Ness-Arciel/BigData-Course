@@ -13,6 +13,8 @@ Repositorio dedicado a notebooks y actividades del curso.
 | 2 | Actividad Hackaton | `Actividad_en_Clase_Grupo_5.ipynb` |
 | 3 | Árboles de decisión y k-Nearest Neighbors | `Semana3_AD_kNN.ipynb` |
 | 4 | Evaluación de modelos de ML | `Clase04_evaluacion_modelos_ML.ipynb` |
+| 5 | Tarea 1 | `Tarea_1.ipynb` |
+
 
 > El repositorio se irá actualizando a lo largo del semestre según la cantidad de actividades respectivas ⊹ ࣪ ˖
 

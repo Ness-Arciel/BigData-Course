@@ -16,6 +16,7 @@ Repositorio dedicado a notebooks y actividades del curso.
 | 5 | Super Vector Machine | `Clase05_SVM.ipynb` |
 | 6 | Regresión I | `Clase_06_Regresión.ipynb` |
 | 7 | Regresión II y Regularización | `Semana07_Regularizacion.ipynb` |
+| 8 | Métodos de Ensemble | `Clase08_Photoz_Ensemble_RF.ipynb` |
 | T1 | Tarea 1 | `Tarea_1.ipynb` |
 
 
@@ -35,7 +36,7 @@ Repositorio dedicado a notebooks y actividades del curso.
 ## 📌 Notas
 
 Aquí, los notebooks incluyen tanto el código como las respuestas escritas en Markdown directamente en el IPYNB.
-Algunas de estas actividades fueron realizadas con datos reales, como catálogos.
+Algunas de estas actividades fueron realizadas con datos reales, como catálogos o artículos publicados.
 
 ---
 

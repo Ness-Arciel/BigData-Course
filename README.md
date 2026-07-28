@@ -18,7 +18,7 @@ Repositorio dedicado a notebooks y actividades del curso.
 | 7 | Regresión II y Regularización | `Semana07_Regularizacion.ipynb` |
 | 8 | Métodos de Ensemble | `Clase08_Photoz_Ensemble_RF.ipynb` |
 | T1 | Tarea 1 | `Tarea_1.ipynb` |
-
+| T2 | Tarea 2 | `Tarea_2.ipynb` & `predicciones.csv` |
 
 > El repositorio se irá actualizando a lo largo del semestre según la cantidad de actividades respectivas ⊹ ࣪ ˖
 

@@ -17,6 +17,7 @@ Repositorio dedicado a notebooks y actividades del curso.
 | 6 | Regresión I | `Clase_06_Regresión.ipynb` |
 | 7 | Regresión II y Regularización | `Semana07_Regularizacion.ipynb` |
 | 8 | Métodos de Ensemble | `Clase08_Photoz_Ensemble_RF.ipynb` |
+| 9 | Redes Neuronales | `Clase9_FirstNN_ParticlePhysicsID.ipynb` |
 | T1 | Tarea 1 | `Tarea_1.ipynb` |
 | T2 | Tarea 2 | `Tarea_2.ipynb` & `predicciones.csv` |
 

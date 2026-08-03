@@ -1,11 +1,11 @@
-# 🪐 Astrofísica y Big Data
+# 🧸 Astrofísica y Big Data
 
 **Universidad de Santiago de Chile**  
 Repositorio dedicado a notebooks y actividades del curso.
 
 ---
 
-## 📂 Contenido
+## Contenido
 
 | Número | Actividad | Notebook |
 |--------|----------|----------|
@@ -25,16 +25,17 @@ Repositorio dedicado a notebooks y actividades del curso.
 
 ---
 
-## 🛸 Herramientas utilizadas
+## Herramientas utilizadas
 
 - Python 3
 - `pandas` · `numpy` · `matplotlib`
 - `scikit-learn`
+- `tensorflow`
 - Jupyter Notebook
 
 ---
 
-## 📌 Notas
+## 🍂 Notas
 
 Aquí, los notebooks incluyen tanto el código como las respuestas escritas en Markdown directamente en el IPYNB.
 Algunas de estas actividades fueron realizadas con datos reales, como catálogos o artículos publicados.

@@ -21,6 +21,7 @@ Repositorio dedicado a notebooks y actividades del curso.
 | 10 | Transformer | `Clase10_Visualización_BERT.ipynb` |
 | T1 | Tarea 1 | `Tarea_1.ipynb` |
 | T2 | Tarea 2 | `Tarea_2.ipynb` & `predicciones.csv` |
+| T2 | Tarea 3 | `Tarea_3.ipynb` |
 
 > El repositorio se irá actualizando a lo largo del semestre según la cantidad de actividades respectivas ⊹ ࣪ ˖
 
